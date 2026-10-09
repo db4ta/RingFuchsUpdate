@@ -1,0 +1,105 @@
+{
+  "format": "ringfuchs-disziplinen",
+  "version": "1.0",
+  "lizenz": "Copyright © 2026 RingFuchs. Alle Rechte vorbehalten. Proprietäre Nutzung für autorisierte Importe.",
+  "schema_version": 1,
+  "paket_id": "bds",
+  "revision": 1,
+  "erzeugt_am": "2026-10-09T21:21:14Z",
+  "disziplinen": [
+    {
+      "id": "bds_25m_praezision",
+      "kennziffer": "",
+      "name": "25 m Kurzwaffe Präzision",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "bds_kurzwaffenscheibe",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz",
+      "distanz_m": 25
+    }
+  ],
+  "scheiben": [
+    {
+      "scheiben_id": "bds_kurzwaffenscheibe",
+      "name": "BDS-Kurzwaffenscheibe (Z9)",
+      "verbaende": [
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    }
+  ]
+}

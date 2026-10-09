@@ -1,0 +1,16 @@
+{
+  "format": "ringfuchs-katalog-manifest",
+  "katalog_revision": 1,
+  "erzeugt_am": "2026-10-09T21:21:14Z",
+  "mindest_app_schema": 1,
+  "sync_pausiert": false,
+  "pakete": [
+    {
+      "paket_id": "bds",
+      "revision": 1,
+      "url": "pakete/bds-r1.ringfuchs",
+      "sha256": "3e939b24927e98a76076f904346669c1f0217298377299d4d9cb4b3aa471cdbf",
+      "bytes": 2342
+    }
+  ]
+}
