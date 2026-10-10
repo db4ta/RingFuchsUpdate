@@ -1,0 +1,442 @@
+{
+  "format": "ringfuchs-disziplinen",
+  "version": "1.0",
+  "lizenz": "Copyright © 2026 RingFuchs. Alle Rechte vorbehalten. Proprietäre Nutzung für autorisierte Importe.",
+  "schema_version": 1,
+  "paket_id": "bdmp",
+  "revision": 1,
+  "erzeugt_am": "2026-10-10T10:04:25Z",
+  "disziplinen": [
+    {
+      "id": "bdmp_dp1",
+      "kennziffer": "DP 1",
+      "name": "Dienstpistole 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.2,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_dp2",
+      "kennziffer": "DP 2",
+      "name": "Dienstpistole 2",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.2,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_dp3",
+      "kennziffer": "DP 3",
+      "name": "Dienstpistole 3",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.2,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sar1",
+      "kennziffer": "SAR 1",
+      "name": "Single Action Revolver 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.0,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sar2",
+      "kennziffer": "SAR 2",
+      "name": "Single Action Revolver 2",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.0,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_dr1",
+      "kennziffer": "DR 1",
+      "name": "Dienstrevolver 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.5,
+          11.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sp1",
+      "kennziffer": "SP 1",
+      "name": "Sportpistole 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.8,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sp2",
+      "kennziffer": "SP 2",
+      "name": "Sportpistole 2",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          8.9,
+          9.2
+        ],
+        [
+          11.3,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sp3",
+      "kennziffer": "SP 3",
+      "name": "Sportpistole 3",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.8,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_sp4",
+      "kennziffer": "SP 4",
+      "name": "Sportpistole 4",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          8.9,
+          9.2
+        ],
+        [
+          10.7,
+          11.0
+        ],
+        [
+          11.3,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_kk-pistrev",
+      "kennziffer": "KK-Pist./Rev.",
+      "name": "Kleinkaliber Kurzwaffe",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 12
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 12
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bdmp_dg1",
+      "kennziffer": "DG 1",
+      "name": "Dienstgewehr 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "schuesse_pro_scheibe": 10
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bdmp_lar1",
+      "kennziffer": "LAR 1",
+      "name": "Lever Action Rifle 1",
+      "verband": "BDMP",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "schuesse_pro_scheibe": 10
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.5,
+          11.7
+        ]
+      ],
+      "waffenart": "lang"
+    }
+  ],
+  "scheiben": [
+    {
+      "scheiben_id": "dsb_scheibe_nr10",
+      "name": "DSB Scheibe Nr. 10 (25m Schnellfeuer / Duell)",
+      "verbaende": [
+        "DSB",
+        "BDMP"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 180.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 260.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 420.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "2d4f36fcb6b38af74408042021fccab254250b6928f1d488e9e21cbeba075346",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr4",
+      "name": "DSB Scheibe Nr. 4 (25m Pistole / 100m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS",
+        "BDMP",
+        "DSU"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    }
+  ]
+}

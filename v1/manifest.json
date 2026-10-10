@@ -1,16 +1,37 @@
 {
   "format": "ringfuchs-katalog-manifest",
-  "katalog_revision": 1,
-  "erzeugt_am": "2026-10-10T10:02:04Z",
+  "katalog_revision": 2,
+  "erzeugt_am": "2026-10-10T10:04:25Z",
   "mindest_app_schema": 2,
   "sync_pausiert": false,
   "pakete": [
+    {
+      "paket_id": "bdmp",
+      "revision": 1,
+      "url": "pakete/bdmp-r1.ringfuchs",
+      "sha256": "09235d2ccc3db483d175e76f23978d51b595661f2d79eeec87aebeab51927994",
+      "bytes": 9124
+    },
+    {
+      "paket_id": "bds",
+      "revision": 1,
+      "url": "pakete/bds-r1.ringfuchs",
+      "sha256": "39b26333f9f1f79f09e3e47664505c32244435405293a7d11cae4484a70f1943",
+      "bytes": 14047
+    },
     {
       "paket_id": "dsb",
       "revision": 1,
       "url": "pakete/dsb-r1.ringfuchs",
       "sha256": "02b9bb425d0188b3b893ec065953de5958999c96e8033c0fce895d34008a0f9c",
       "bytes": 31285
+    },
+    {
+      "paket_id": "dsu",
+      "revision": 1,
+      "url": "pakete/dsu-r1.ringfuchs",
+      "sha256": "ecfe6472aebb35a4400dd79b1eaa61bc56962ecde506ebc676227a3a4840c8b1",
+      "bytes": 150415
     }
   ]
 }

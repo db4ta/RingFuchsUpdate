@@ -5,7 +5,7 @@
   "schema_version": 1,
   "paket_id": "bds",
   "revision": 1,
-  "erzeugt_am": "2026-10-09T21:21:14Z",
+  "erzeugt_am": "2026-10-10T10:04:25Z",
   "disziplinen": [
     {
       "id": "bds_25m_praezision",
@@ -26,11 +26,331 @@
           11.6
         ]
       ],
-      "waffenart": "kurz",
-      "distanz_m": 25
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bds_25m_kombi",
+      "kennziffer": "",
+      "name": "25 m Kurzwaffe Kombi",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "bds_kurzwaffenscheibe",
+          "schuesse": 20
+        },
+        {
+          "id": "intervall",
+          "name": "Intervall",
+          "scheiben_id": "bds_25m_intervallscheibe",
+          "schuesse": 10
+        },
+        {
+          "id": "zeitserie",
+          "name": "Zeitserie",
+          "scheiben_id": "bds_25m_intervallscheibe",
+          "schuesse": 10
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "bds_2101",
+      "kennziffer": "2101",
+      "name": "50 m Präzision Selbstladegewehr Kurzwaffenpatrone, offene Visierung",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "bds_100m_scheibe",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.6,
+          11.6
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_2104",
+      "kennziffer": "2104",
+      "name": "50 m Präzision Repetierbüchse KK, offene Visierung",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "bds_100m_scheibe",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_2106",
+      "kennziffer": "2106",
+      "name": "50 m Präzision Dienstsportgewehr KK, gK + Diopter",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_2107",
+      "kennziffer": "2107",
+      "name": "50 m Präzision Matchsportgewehr KK",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_3101",
+      "kennziffer": "3101",
+      "name": "100 m Präzision Matchsportgewehr",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "bds_100m_scheibe",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_3105",
+      "kennziffer": "3105",
+      "name": "100 m Präzision Unterhebelrepetierer",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          11.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_3106",
+      "kennziffer": "3106",
+      "name": "100 m Präzision Dienstsportgewehr offene Kimme",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "bds_4101",
+      "kennziffer": "4101",
+      "name": "300 m Präzision Matchsportgewehr",
+      "verband": "BDS",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.7
+        ]
+      ],
+      "waffenart": "lang"
     }
   ],
   "scheiben": [
+    {
+      "scheiben_id": "bds_100m_scheibe",
+      "name": "BDS-100m-Scheibe (Z1)",
+      "verbaende": [
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 395.0,
+      "gesamt_hoehe_mm": 395.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 17.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 34.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 68.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 102.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 136.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 170.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 204.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 238.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 272.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 306.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "6cce1d3e38bf725b48b94c992298f1d320babb6185600cd7603ecd319d0e4f9f",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "bds_25m_intervallscheibe",
+      "name": "BDS-25m-Intervallscheibe (Z20)",
+      "verbaende": [
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 520.0,
+      "spiegel_schwarz_ab_ring": 9,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 180.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 260.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 420.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "96bad89b66b32f9c379a265ea1c4476ff1301e1171696cdff8a5c73fdab5197c",
+      "revision": 1
+    },
     {
       "scheiben_id": "bds_kurzwaffenscheibe",
       "name": "BDS-Kurzwaffenscheibe (Z9)",
@@ -99,6 +419,221 @@
         }
       ],
       "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr3",
+      "name": "DSB Scheibe Nr. 3 (50m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 340.0,
+      "gesamt_hoehe_mm": 340.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 10.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 26.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 42.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 58.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 74.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 90.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 106.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 122.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 138.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 154.4,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "ebd9504169f6fb9f6982e3fa44c6d5769dc0ac8248449c74ae585448c6dad7aa",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr4",
+      "name": "DSB Scheibe Nr. 4 (25m Pistole / 100m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS",
+        "BDMP",
+        "DSU"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr5",
+      "name": "DSB Scheibe Nr. 5 (300m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 1040.0,
+      "gesamt_hoehe_mm": 1020.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 600.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 700.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 800.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 900.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 1000.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "1b56261ba7b8e9cec85c943972bb1265cdce584080d9255294d02b500f593949",
       "revision": 1
     }
   ]
