@@ -1,0 +1,1432 @@
+{
+  "format": "ringfuchs-disziplinen",
+  "version": "1.0",
+  "lizenz": "Copyright © 2026 RingFuchs. Alle Rechte vorbehalten. Proprietäre Nutzung für autorisierte Importe.",
+  "schema_version": 1,
+  "paket_id": "dsb",
+  "revision": 1,
+  "erzeugt_am": "2026-10-10T10:02:04Z",
+  "disziplinen": [
+    {
+      "id": "dsb_1.10_60",
+      "kennziffer": "1.10",
+      "name": "10 m Luftgewehr (60 Schuss)",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 60,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.10_40",
+      "kennziffer": "1.10",
+      "name": "10 m Luftgewehr (40 Schuss)",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 40,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.11",
+      "kennziffer": "1.11",
+      "name": "10 m Luftgewehr Auflage",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 30,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.20",
+      "kennziffer": "1.20",
+      "name": "10 m Luftgewehr 3-Stellung",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.30",
+      "kennziffer": "1.30",
+      "name": "15 m Zimmerstutzen",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.6,
+          4.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.31",
+      "kennziffer": "1.31",
+      "name": "15 m Zimmerstutzen Auflage",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.6,
+          4.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.35",
+      "kennziffer": "1.35",
+      "name": "100 m KK-Gewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.36",
+      "kennziffer": "1.36",
+      "name": "100 m KK-Gewehr Auflage",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.40",
+      "kennziffer": "1.40",
+      "name": "50 m KK-Sportgewehr 3×20",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.41",
+      "kennziffer": "1.41",
+      "name": "50 m KK-Sportgewehr Auflage",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.42",
+      "kennziffer": "1.42",
+      "name": "50 m KK-Gewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.43",
+      "kennziffer": "1.43",
+      "name": "50 m KK-Gewehr Zielfernrohr aufgelegt",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.44",
+      "kennziffer": "1.44",
+      "name": "100 m KK-Gewehr Zielfernrohr aufgelegt",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.45",
+      "kennziffer": "1.45",
+      "name": "50 m KK-Sportgewehr Mehrlader",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.50",
+      "kennziffer": "1.50",
+      "name": "300 m GK-Standardgewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.51",
+      "kennziffer": "1.51",
+      "name": "50 m GK-Standardgewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.52",
+      "kennziffer": "1.52",
+      "name": "100 m GK-Standardgewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.56",
+      "kennziffer": "1.56",
+      "name": "50 m Unterhebelrepetierer KK",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.57",
+      "kennziffer": "1.57",
+      "name": "50 m Unterhebelrepetierer GK",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          11.7
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.58",
+      "kennziffer": "1.58",
+      "name": "100 m Ordonnanzgewehr",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.60",
+      "kennziffer": "1.60",
+      "name": "50 m KK-Freigewehr 3×40",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.80",
+      "kennziffer": "1.80",
+      "name": "50 m KK-Liegendkampf",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.85",
+      "kennziffer": "1.85",
+      "name": "50 m KK-Liegendkampf Mehrlader",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.90",
+      "kennziffer": "1.90",
+      "name": "300 m GK-Liegendkampf",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.91",
+      "kennziffer": "1.91",
+      "name": "50 m GK-Liegendkampf",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_1.92",
+      "kennziffer": "1.92",
+      "name": "100 m GK-Liegendkampf",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          8.3
+        ]
+      ],
+      "waffenart": "lang"
+    },
+    {
+      "id": "dsb_2.10_60",
+      "kennziffer": "2.10",
+      "name": "10 m Luftpistole (60 Schuss)",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 60,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.10_40",
+      "kennziffer": "2.10",
+      "name": "10 m Luftpistole (40 Schuss)",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 40,
+          "schuesse_pro_scheibe": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.4,
+          4.6
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.20",
+      "kennziffer": "2.20",
+      "name": "50 m Pistole",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.30",
+      "kennziffer": "2.30",
+      "name": "25 m Schnellfeuerpistole",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.40",
+      "kennziffer": "2.40",
+      "name": "25 m Pistole",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.40.H",
+      "kennziffer": "2.40.H",
+      "name": "25 m Sportpistole (Halbprogramm)",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 15
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz",
+      "abweichung_spo": "Halbprogramm von 2.40 (je 15 statt 30 Schuss) auf Wunsch des Product Owners; die Wettbewerbstabelle der SpO 2027 führt 2.40.H nicht als eigene Kennziffer."
+    },
+    {
+      "id": "dsb_2.41",
+      "kennziffer": "2.41",
+      "name": "25 m Pistole Nachwuchs",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.45",
+      "kennziffer": "2.45",
+      "name": "25 m Zentralfeuerpistole",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 30
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.6,
+          9.7
+        ]
+      ],
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.53",
+      "kennziffer": "2.53",
+      "name": "25 m Pistole 9 mm Luger",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          8.9,
+          9.2
+        ]
+      ],
+      "abweichung_spo": "Auf Entscheidung des Product Owners durchgehend Scheibe Nr. 4 (40 Schuss, kein Scheibenwechsel). SpO 2027 (Regel 2.21.2, Anhang 0.20) sieht für Durchgang 2 die Duellscheibe Nr. 10 vor (10er Ø 100 mm statt 50 mm).",
+      "waffenart": "kurz"
+    },
+    {
+      "id": "dsb_2.55",
+      "kennziffer": "2.55",
+      "name": "25 m Revolver .357 Magnum",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          8.9,
+          9.2
+        ]
+      ],
+      "waffenart": "kurz",
+      "abweichung_spo": "Auf Entscheidung des Product Owners durchgehend Scheibe Nr. 4 (40 Schuss, kein Scheibenwechsel). SpO 2027 (Regel 2.21.2, Anhang 0.20) sieht für Durchgang 2 die Duellscheibe Nr. 10 vor (10er Ø 100 mm statt 50 mm)."
+    },
+    {
+      "id": "dsb_2.58",
+      "kennziffer": "2.58",
+      "name": "25 m Revolver .44 Magnum",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          10.7,
+          11.0
+        ]
+      ],
+      "waffenart": "kurz",
+      "abweichung_spo": "Auf Entscheidung des Product Owners durchgehend Scheibe Nr. 4 (40 Schuss, kein Scheibenwechsel). SpO 2027 (Regel 2.21.2, Anhang 0.20) sieht für Durchgang 2 die Duellscheibe Nr. 10 vor (10er Ø 100 mm statt 50 mm)."
+    },
+    {
+      "id": "dsb_2.59",
+      "kennziffer": "2.59",
+      "name": "25 m Pistole .45 ACP",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          11.3,
+          11.6
+        ]
+      ],
+      "waffenart": "kurz",
+      "abweichung_spo": "Auf Entscheidung des Product Owners durchgehend Scheibe Nr. 4 (40 Schuss, kein Scheibenwechsel). SpO 2027 (Regel 2.21.2, Anhang 0.20) sieht für Durchgang 2 die Duellscheibe Nr. 10 vor (10er Ø 100 mm statt 50 mm)."
+    },
+    {
+      "id": "dsb_2.60",
+      "kennziffer": "2.60",
+      "name": "25 m Standardpistole",
+      "verband": "DSB",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.5,
+          5.8
+        ]
+      ],
+      "waffenart": "kurz"
+    }
+  ],
+  "scheiben": [
+    {
+      "scheiben_id": "dsb_scheibe_nr1",
+      "name": "DSB Scheibe Nr. 1 (10m Luftgewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 100.0,
+      "gesamt_hoehe_mm": 100.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 0.5,
+          "innenzehn": true,
+          "innenzehn_weggeschossen": true
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 5.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 10.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 15.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 20.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 25.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 30.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 35.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 45.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "5708dffcdb93fba3b822a45c2706476dc4ff850fa3f1e89bcebbec0989195d9e",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr10",
+      "name": "DSB Scheibe Nr. 10 (25m Schnellfeuer / Duell)",
+      "verbaende": [
+        "DSB",
+        "BDMP"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 180.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 260.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 420.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "2d4f36fcb6b38af74408042021fccab254250b6928f1d488e9e21cbeba075346",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr2",
+      "name": "DSB Scheibe Nr. 2 (15m Zimmerstutzen)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 130.0,
+      "gesamt_hoehe_mm": 130.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 4.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 13.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 22.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 31.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 49.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 58.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 67.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 76.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 85.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "df67cd06c5a8df6596ab476793eb6a2b715692caa47820db7e57b3378227d0b0",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr3",
+      "name": "DSB Scheibe Nr. 3 (50m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 340.0,
+      "gesamt_hoehe_mm": 340.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 10.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 26.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 42.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 58.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 74.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 90.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 106.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 122.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 138.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 154.4,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "ebd9504169f6fb9f6982e3fa44c6d5769dc0ac8248449c74ae585448c6dad7aa",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr4",
+      "name": "DSB Scheibe Nr. 4 (25m Pistole / 100m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS",
+        "BDMP",
+        "DSU"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr5",
+      "name": "DSB Scheibe Nr. 5 (300m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 1040.0,
+      "gesamt_hoehe_mm": 1020.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 600.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 700.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 800.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 900.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 1000.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "1b56261ba7b8e9cec85c943972bb1265cdce584080d9255294d02b500f593949",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr7",
+      "name": "DSB Scheibe Nr. 7 (10m Luftpistole)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 170.0,
+      "gesamt_hoehe_mm": 170.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 11.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 27.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 43.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 59.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 75.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 91.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 107.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 123.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 139.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 155.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "d9908d18373f2177a745af508a116168a35adadc12528d15821135c76f599376",
+      "revision": 1
+    }
+  ]
+}
