@@ -1,7 +1,7 @@
 # 🦊 RingFuchsUpdate – Over-the-Air-Verbandskatalog
 
 Statische Update-Quelle (GitHub Pages) für das RingFuchs-Ökosystem. Hier liegt der signierte Verbandskatalog
-mit Disziplinen und Scheiben von **BDS, BDMP und DSU**. Die iOS-App lädt ihn im Hintergrund nach. DSB liefert
+mit Disziplinen und Scheiben von **DSB, BDS, BDMP, DSU und vielen weiteren**. Die iOS-App lädt ihn im Hintergrund nach. DSB liefert
 die App selbst mit.
 
 - **Herausgeber:** RingFuchs Manager (macOS), Knopf „🌐 Katalog veröffentlichen“.
