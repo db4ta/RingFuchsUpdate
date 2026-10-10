@@ -1,10 +1,17 @@
 {
   "format": "ringfuchs-katalog-manifest",
-  "katalog_revision": 4,
-  "erzeugt_am": "2026-10-10T11:21:24Z",
+  "katalog_revision": 5,
+  "erzeugt_am": "2026-10-10T21:50:00Z",
   "mindest_app_schema": 2,
   "sync_pausiert": false,
   "pakete": [
+    {
+      "paket_id": "bdhs",
+      "revision": 1,
+      "url": "pakete/bdhs-r1.ringfuchs",
+      "sha256": "9f3f016d4cc1966ebc493dbc38714113cd872b085f4c0508ddf485455422c735",
+      "bytes": 8418
+    },
     {
       "paket_id": "bdmp",
       "revision": 1,
