@@ -1,0 +1,3813 @@
+{
+  "format": "ringfuchs-disziplinen",
+  "version": "1.0",
+  "lizenz": "Copyright © 2026 RingFuchs. Alle Rechte vorbehalten. Proprietäre Nutzung für autorisierte Importe.",
+  "schema_version": 1,
+  "paket_id": "dsb",
+  "revision": 2,
+  "erzeugt_am": "2026-10-10T10:38:44Z",
+  "disziplinen": [
+    {
+      "id": "eigen_dsb_1.10_60",
+      "kennziffer": "1.10",
+      "name": "Luftgewehr 10 m (60 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 12,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.10_40",
+      "kennziffer": "1.10",
+      "name": "Luftgewehr 10 m (40 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.10_20",
+      "kennziffer": "1.10",
+      "name": "Luftgewehr 10 m (20 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.11",
+      "kennziffer": "1.11",
+      "name": "Luftgewehr Auflage 10 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.20_60",
+      "kennziffer": "1.20",
+      "name": "Luftgewehr 3-Stellung 10 m (60 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.20_30",
+      "kennziffer": "1.20",
+      "name": "Luftgewehr 3-Stellung 10 m (30 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 10,
+          "anzahl_scheiben_erwartet": 2,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 10,
+          "anzahl_scheiben_erwartet": 2,
+          "schuesse_pro_scheibe": 5
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 10,
+          "anzahl_scheiben_erwartet": 2,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.30_30",
+      "kennziffer": "1.30",
+      "name": "Zimmerstutzen 15/10 m (30 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.30_15",
+      "kennziffer": "1.30",
+      "name": "Zimmerstutzen 15/10 m (15 Schuss)",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.31",
+      "kennziffer": "1.31",
+      "name": "Zimmerstutzen Auflage 15 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.35",
+      "kennziffer": "1.35",
+      "name": "KK Gewehr 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.36",
+      "kennziffer": "1.36",
+      "name": "KK Gewehr Auflage 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.37",
+      "kennziffer": "1.37",
+      "name": "GK 50 m Feuerstutzen",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 55,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.38",
+      "kennziffer": "1.38",
+      "name": "GK 100 m Feuerstutzen",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.40",
+      "kennziffer": "1.40",
+      "name": "KK-Sportgewehr 50 m 3x20",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.41",
+      "kennziffer": "1.41",
+      "name": "KK-Sportgewehr Auflage 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.42",
+      "kennziffer": "1.42",
+      "name": "KK Gewehr 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.43",
+      "kennziffer": "1.43",
+      "name": "KK Gewehr 50 m Zielfernrohr aufgelegt",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.44",
+      "kennziffer": "1.44",
+      "name": "KK Gewehr 100 m Zielfernrohr aufgelegt",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.45",
+      "kennziffer": "1.45",
+      "name": "KK-Sportgewehr 50 m Mehrlader",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.50",
+      "kennziffer": "1.50",
+      "name": "GK-Standardgewehr",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.51",
+      "kennziffer": "1.51",
+      "name": "GK-Standardgewehr",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.52",
+      "kennziffer": "1.52",
+      "name": "GK-Standardgewehr",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.53",
+      "kennziffer": "1.53",
+      "name": "GK-Standardgewehr Mehrlader",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.54",
+      "kennziffer": "1.54",
+      "name": "GK-Standardgewehr Mehrlader",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.55",
+      "kennziffer": "1.55",
+      "name": "GK-Standardgewehr Mehrlader",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.56",
+      "kennziffer": "1.56",
+      "name": "Unterhebelrepetierer",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.57",
+      "kennziffer": "1.57",
+      "name": "Unterhebelrepetierer",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.59",
+      "kennziffer": "1.59",
+      "name": "GK-Sportgewehr 300 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.60",
+      "kennziffer": "1.60",
+      "name": "KK-Freigewehr 50 m 120 Schuss",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.70",
+      "kennziffer": "1.70",
+      "name": "GK-Freigewehr 300 m 120 Schuss",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.71",
+      "kennziffer": "1.71",
+      "name": "GK-Freigewehr 50 m 120 Schuss",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.72",
+      "kennziffer": "1.72",
+      "name": "GK-Freigewehr 100 m 120 Schuss",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "kniend",
+          "name": "Kniend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.80",
+      "kennziffer": "1.80",
+      "name": "KK-Liegendkampf 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.85",
+      "kennziffer": "1.85",
+      "name": "KK-Liegendkampf Mehrlader 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.90",
+      "kennziffer": "1.90",
+      "name": "GK-Liegendkampf 300 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.91",
+      "kennziffer": "1.91",
+      "name": "GK-Liegendkampf 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.92",
+      "kennziffer": "1.92",
+      "name": "GK-Liegendkampf 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.95",
+      "kennziffer": "1.95",
+      "name": "GK-Liegendkampf Mehrlader 300 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.96",
+      "kennziffer": "1.96",
+      "name": "GK-Liegendkampf Mehrlader 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_1.97",
+      "kennziffer": "1.97",
+      "name": "GK-Liegendkampf Mehrlader 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.10_60",
+      "kennziffer": "2.10",
+      "name": "10 m Luftpistole (60 Schuss)",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 12,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.10_40",
+      "kennziffer": "2.10",
+      "name": "10 m Luftpistole (40 Schuss)",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.10_20",
+      "kennziffer": "2.10",
+      "name": "10 m Luftpistole (20 Schuss)",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.11",
+      "kennziffer": "2.11",
+      "name": "10 m Luftpistole Auflage",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.16_60",
+      "kennziffer": "2.16",
+      "name": "10 m Mehrschüssige Luftpistole (60 Schuss)",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr9",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 12,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.16_30",
+      "kennziffer": "2.16",
+      "name": "10 m Mehrschüssige Luftpistole (30 Schuss)",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr9",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6,
+          "schuesse_pro_scheibe": 5
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.17",
+      "kennziffer": "2.17",
+      "name": "10 m Luftpistole Mehrkampf",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr8",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.18",
+      "kennziffer": "2.18",
+      "name": "10 m Luftpistole Standard",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.20",
+      "kennziffer": "2.20",
+      "name": "50 m Pistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.30",
+      "kennziffer": "2.30",
+      "name": "25 m Schnellfeuerpistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.31",
+      "kennziffer": "2.31",
+      "name": "25 m Schnellfeuerpistole Nachwuchswettbewerb",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.40",
+      "kennziffer": "2.40",
+      "name": "25 m Pistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.41",
+      "kennziffer": "2.41",
+      "name": "25 m Pistole Nachwuchswettbewerb",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.45",
+      "kennziffer": "2.45",
+      "name": "25 m Zentralfeuerpistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 30,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.51",
+      "kennziffer": "2.51",
+      "name": "Großkaliber pistole .30",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.52",
+      "kennziffer": "2.52",
+      "name": "Großkaliber pistole .32",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.53",
+      "kennziffer": "2.53",
+      "name": "25 m Pistole 9 mm",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.54",
+      "kennziffer": "2.54",
+      "name": "Großkaliber pistole .38",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.55",
+      "kennziffer": "2.55",
+      "name": "25 m Revolver .357 Magn.",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.56",
+      "kennziffer": "2.56",
+      "name": "Großkaliber pistole 10 mm",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.57",
+      "kennziffer": "2.57",
+      "name": "Großkaliberrevolver .41",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.58",
+      "kennziffer": "2.58",
+      "name": "25 m Revolver .44 Magn.",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.59",
+      "kennziffer": "2.59",
+      "name": "25 m Pistole .45",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        },
+        {
+          "id": "schnellfeuer",
+          "name": "Schnellfeuer",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 20,
+          "anzahl_scheiben_erwartet": 4
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_2.60",
+      "kennziffer": "2.60",
+      "name": "25 m Standardpistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_4.10",
+      "kennziffer": "4.10",
+      "name": "Laufende Scheibe 10 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr12",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_4.15",
+      "kennziffer": "4.15",
+      "name": "Laufende Scheibe 10 m MIX",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr12",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_4.20",
+      "kennziffer": "4.20",
+      "name": "Laufende Scheibe 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr13",
+          "schuesse": 60,
+          "anzahl_scheiben_erwartet": 6
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_4.25",
+      "kennziffer": "4.25",
+      "name": "Laufende Scheibe 50 m MIX",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr13",
+          "schuesse": 40,
+          "anzahl_scheiben_erwartet": 8
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.10",
+      "kennziffer": "7.10",
+      "name": "Perkussionsgewehr 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.11",
+      "kennziffer": "7.11",
+      "name": "Perkussionsgewehr 50 m – Auflage",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.15",
+      "kennziffer": "7.15",
+      "name": "Perkussionsfreigewehr 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.16",
+      "kennziffer": "7.16",
+      "name": "Perkussionsfreigewehr 300 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr5",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.20",
+      "kennziffer": "7.20",
+      "name": "Perkussionsdienstgewehr 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.21",
+      "kennziffer": "7.21",
+      "name": "Perkussionsdienstgewehr",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.30",
+      "kennziffer": "7.30",
+      "name": "Steinschlossgewehr",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.31",
+      "kennziffer": "7.31",
+      "name": "Steinschlossgewehr 100 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.35",
+      "kennziffer": "7.35",
+      "name": "Muskete 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr6",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.40",
+      "kennziffer": "7.40",
+      "name": "25 m Perkussionsrevolver",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.50",
+      "kennziffer": "7.50",
+      "name": "25 m Perkussionspistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.51",
+      "kennziffer": "7.51",
+      "name": "25 m Perkussionspistole – Auflage",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_7.60",
+      "kennziffer": "7.60",
+      "name": "25 m Steinschlosspistole",
+      "verband": "DSB",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "anzahl_scheiben_erwartet": 3
+        }
+      ]
+    },
+    {
+      "id": "eigen_dsb_8.21",
+      "kennziffer": "8.21",
+      "name": "8.25 Sommerbiathlon 50 m",
+      "verband": "DSB",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 5,
+          "anzahl_scheiben_erwartet": 1
+        }
+      ]
+    }
+  ],
+  "scheiben": [
+    {
+      "scheiben_id": "dsb_scheibe_nr1",
+      "name": "DSB Scheibe Nr. 1 (10m Luftgewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 100.0,
+      "gesamt_hoehe_mm": 100.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 0.5,
+          "innenzehn": true,
+          "innenzehn_weggeschossen": true
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 5.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 10.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 15.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 20.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 25.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 30.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 35.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 45.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "5708dffcdb93fba3b822a45c2706476dc4ff850fa3f1e89bcebbec0989195d9e",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr10",
+      "name": "DSB Scheibe Nr. 10 (25m Schnellfeuer / Duell)",
+      "verbaende": [
+        "DSB",
+        "BDMP"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 180.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 260.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 420.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "2d4f36fcb6b38af74408042021fccab254250b6928f1d488e9e21cbeba075346",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr12",
+      "name": "DSB Scheibe Nr. 12 (10m Laufende Scheibe)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 150.0,
+      "gesamt_hoehe_mm": 260.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 0.5,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 10.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 15.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 20.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 25.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 30.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 35.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 45.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 50.5,
+          "innenzehn": false
+        }
+      ],
+      "spiegel_schwarz_ab_ring": 5,
+      "inhalt_sha256": "c4aee588dbba70eda0ed835140e65e47c613acbd8d4f95acef80fbc3786599f9",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr13",
+      "name": "DSB Scheibe Nr. 13 (50m Laufende Scheibe)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 1300.0,
+      "gesamt_hoehe_mm": 600.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 30.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 60.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 94.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 128.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 162.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 196.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 230.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 264.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 298.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 332.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 366.0,
+          "innenzehn": false
+        }
+      ],
+      "spiegel_schwarz_ab_ring": 1,
+      "inhalt_sha256": "26850247ad620b1ac355fcc4b7616eeac56b9c437df56ac37f55ffcfc8b59626",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr2",
+      "name": "DSB Scheibe Nr. 2 (15m Zimmerstutzen)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 130.0,
+      "gesamt_hoehe_mm": 130.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 4.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 13.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 22.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 31.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 49.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 58.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 67.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 76.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 85.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "df67cd06c5a8df6596ab476793eb6a2b715692caa47820db7e57b3378227d0b0",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr3",
+      "name": "DSB Scheibe Nr. 3 (50m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 340.0,
+      "gesamt_hoehe_mm": 340.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 10.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 26.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 42.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 58.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 74.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 90.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 106.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 122.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 138.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 154.4,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "ebd9504169f6fb9f6982e3fa44c6d5769dc0ac8248449c74ae585448c6dad7aa",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr4",
+      "name": "DSB Scheibe Nr. 4 (25m Pistole / 100m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS",
+        "BDMP",
+        "DSU"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr5",
+      "name": "DSB Scheibe Nr. 5 (300m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 1040.0,
+      "gesamt_hoehe_mm": 1020.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 600.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 700.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 800.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 900.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 1000.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "1b56261ba7b8e9cec85c943972bb1265cdce584080d9255294d02b500f593949",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr6",
+      "name": "DSB Scheibe Nr. 6 (50m Muskete / Luntenschlossgewehr)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 80.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 160.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 240.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 320.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 480.0,
+          "innenzehn": false
+        }
+      ],
+      "spiegel_schwarz_ab_ring": 6,
+      "inhalt_sha256": "324d8a9ad2c6c6e67a536403c421d04dab6f6de5693c687dcf65aa1175c51bce",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr7",
+      "name": "DSB Scheibe Nr. 7 (10m Luftpistole)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 170.0,
+      "gesamt_hoehe_mm": 170.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 11.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 27.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 43.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 59.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 75.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 91.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 107.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 123.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 139.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 155.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "d9908d18373f2177a745af508a116168a35adadc12528d15821135c76f599376",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr8",
+      "name": "DSB Scheibe Nr. 8 (10m Pistole Schnellfeuerteil)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 170.0,
+      "gesamt_hoehe_mm": 170.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 11.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 22.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 48.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 75.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 101.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 128.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 154.5,
+          "innenzehn": false
+        }
+      ],
+      "spiegel_schwarz_ab_ring": 5,
+      "inhalt_sha256": "91a1fee2f3b1210832dc6ba48cac05a5f8d923f6fff6added5a3a00121c8a013",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr9",
+      "name": "DSB Scheibe Nr. 9 (10m Mehrschüssige Luftpistole, Klappen Ø 40)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "polygon",
+      "gesamt_breite_mm": 1370.0,
+      "gesamt_hoehe_mm": 170.0,
+      "zonen": [
+        {
+          "wert": 1,
+          "bezeichnung": "Klappe 1",
+          "punkte": [
+            [
+              -580.0,
+              0.0
+            ],
+            [
+              -580.08,
+              1.74
+            ],
+            [
+              -580.3,
+              3.47
+            ],
+            [
+              -580.68,
+              5.18
+            ],
+            [
+              -581.21,
+              6.84
+            ],
+            [
+              -581.87,
+              8.45
+            ],
+            [
+              -582.68,
+              10.0
+            ],
+            [
+              -583.62,
+              11.47
+            ],
+            [
+              -584.68,
+              12.86
+            ],
+            [
+              -585.86,
+              14.14
+            ],
+            [
+              -587.14,
+              15.32
+            ],
+            [
+              -588.53,
+              16.38
+            ],
+            [
+              -590.0,
+              17.32
+            ],
+            [
+              -591.55,
+              18.13
+            ],
+            [
+              -593.16,
+              18.79
+            ],
+            [
+              -594.82,
+              19.32
+            ],
+            [
+              -596.53,
+              19.7
+            ],
+            [
+              -598.26,
+              19.92
+            ],
+            [
+              -600.0,
+              20.0
+            ],
+            [
+              -601.74,
+              19.92
+            ],
+            [
+              -603.47,
+              19.7
+            ],
+            [
+              -605.18,
+              19.32
+            ],
+            [
+              -606.84,
+              18.79
+            ],
+            [
+              -608.45,
+              18.13
+            ],
+            [
+              -610.0,
+              17.32
+            ],
+            [
+              -611.47,
+              16.38
+            ],
+            [
+              -612.86,
+              15.32
+            ],
+            [
+              -614.14,
+              14.14
+            ],
+            [
+              -615.32,
+              12.86
+            ],
+            [
+              -616.38,
+              11.47
+            ],
+            [
+              -617.32,
+              10.0
+            ],
+            [
+              -618.13,
+              8.45
+            ],
+            [
+              -618.79,
+              6.84
+            ],
+            [
+              -619.32,
+              5.18
+            ],
+            [
+              -619.7,
+              3.47
+            ],
+            [
+              -619.92,
+              1.74
+            ],
+            [
+              -620.0,
+              0.0
+            ],
+            [
+              -619.92,
+              -1.74
+            ],
+            [
+              -619.7,
+              -3.47
+            ],
+            [
+              -619.32,
+              -5.18
+            ],
+            [
+              -618.79,
+              -6.84
+            ],
+            [
+              -618.13,
+              -8.45
+            ],
+            [
+              -617.32,
+              -10.0
+            ],
+            [
+              -616.38,
+              -11.47
+            ],
+            [
+              -615.32,
+              -12.86
+            ],
+            [
+              -614.14,
+              -14.14
+            ],
+            [
+              -612.86,
+              -15.32
+            ],
+            [
+              -611.47,
+              -16.38
+            ],
+            [
+              -610.0,
+              -17.32
+            ],
+            [
+              -608.45,
+              -18.13
+            ],
+            [
+              -606.84,
+              -18.79
+            ],
+            [
+              -605.18,
+              -19.32
+            ],
+            [
+              -603.47,
+              -19.7
+            ],
+            [
+              -601.74,
+              -19.92
+            ],
+            [
+              -600.0,
+              -20.0
+            ],
+            [
+              -598.26,
+              -19.92
+            ],
+            [
+              -596.53,
+              -19.7
+            ],
+            [
+              -594.82,
+              -19.32
+            ],
+            [
+              -593.16,
+              -18.79
+            ],
+            [
+              -591.55,
+              -18.13
+            ],
+            [
+              -590.0,
+              -17.32
+            ],
+            [
+              -588.53,
+              -16.38
+            ],
+            [
+              -587.14,
+              -15.32
+            ],
+            [
+              -585.86,
+              -14.14
+            ],
+            [
+              -584.68,
+              -12.86
+            ],
+            [
+              -583.62,
+              -11.47
+            ],
+            [
+              -582.68,
+              -10.0
+            ],
+            [
+              -581.87,
+              -8.45
+            ],
+            [
+              -581.21,
+              -6.84
+            ],
+            [
+              -580.68,
+              -5.18
+            ],
+            [
+              -580.3,
+              -3.47
+            ],
+            [
+              -580.08,
+              -1.74
+            ]
+          ]
+        },
+        {
+          "wert": 1,
+          "bezeichnung": "Klappe 2",
+          "punkte": [
+            [
+              -280.0,
+              0.0
+            ],
+            [
+              -280.08,
+              1.74
+            ],
+            [
+              -280.3,
+              3.47
+            ],
+            [
+              -280.68,
+              5.18
+            ],
+            [
+              -281.21,
+              6.84
+            ],
+            [
+              -281.87,
+              8.45
+            ],
+            [
+              -282.68,
+              10.0
+            ],
+            [
+              -283.62,
+              11.47
+            ],
+            [
+              -284.68,
+              12.86
+            ],
+            [
+              -285.86,
+              14.14
+            ],
+            [
+              -287.14,
+              15.32
+            ],
+            [
+              -288.53,
+              16.38
+            ],
+            [
+              -290.0,
+              17.32
+            ],
+            [
+              -291.55,
+              18.13
+            ],
+            [
+              -293.16,
+              18.79
+            ],
+            [
+              -294.82,
+              19.32
+            ],
+            [
+              -296.53,
+              19.7
+            ],
+            [
+              -298.26,
+              19.92
+            ],
+            [
+              -300.0,
+              20.0
+            ],
+            [
+              -301.74,
+              19.92
+            ],
+            [
+              -303.47,
+              19.7
+            ],
+            [
+              -305.18,
+              19.32
+            ],
+            [
+              -306.84,
+              18.79
+            ],
+            [
+              -308.45,
+              18.13
+            ],
+            [
+              -310.0,
+              17.32
+            ],
+            [
+              -311.47,
+              16.38
+            ],
+            [
+              -312.86,
+              15.32
+            ],
+            [
+              -314.14,
+              14.14
+            ],
+            [
+              -315.32,
+              12.86
+            ],
+            [
+              -316.38,
+              11.47
+            ],
+            [
+              -317.32,
+              10.0
+            ],
+            [
+              -318.13,
+              8.45
+            ],
+            [
+              -318.79,
+              6.84
+            ],
+            [
+              -319.32,
+              5.18
+            ],
+            [
+              -319.7,
+              3.47
+            ],
+            [
+              -319.92,
+              1.74
+            ],
+            [
+              -320.0,
+              0.0
+            ],
+            [
+              -319.92,
+              -1.74
+            ],
+            [
+              -319.7,
+              -3.47
+            ],
+            [
+              -319.32,
+              -5.18
+            ],
+            [
+              -318.79,
+              -6.84
+            ],
+            [
+              -318.13,
+              -8.45
+            ],
+            [
+              -317.32,
+              -10.0
+            ],
+            [
+              -316.38,
+              -11.47
+            ],
+            [
+              -315.32,
+              -12.86
+            ],
+            [
+              -314.14,
+              -14.14
+            ],
+            [
+              -312.86,
+              -15.32
+            ],
+            [
+              -311.47,
+              -16.38
+            ],
+            [
+              -310.0,
+              -17.32
+            ],
+            [
+              -308.45,
+              -18.13
+            ],
+            [
+              -306.84,
+              -18.79
+            ],
+            [
+              -305.18,
+              -19.32
+            ],
+            [
+              -303.47,
+              -19.7
+            ],
+            [
+              -301.74,
+              -19.92
+            ],
+            [
+              -300.0,
+              -20.0
+            ],
+            [
+              -298.26,
+              -19.92
+            ],
+            [
+              -296.53,
+              -19.7
+            ],
+            [
+              -294.82,
+              -19.32
+            ],
+            [
+              -293.16,
+              -18.79
+            ],
+            [
+              -291.55,
+              -18.13
+            ],
+            [
+              -290.0,
+              -17.32
+            ],
+            [
+              -288.53,
+              -16.38
+            ],
+            [
+              -287.14,
+              -15.32
+            ],
+            [
+              -285.86,
+              -14.14
+            ],
+            [
+              -284.68,
+              -12.86
+            ],
+            [
+              -283.62,
+              -11.47
+            ],
+            [
+              -282.68,
+              -10.0
+            ],
+            [
+              -281.87,
+              -8.45
+            ],
+            [
+              -281.21,
+              -6.84
+            ],
+            [
+              -280.68,
+              -5.18
+            ],
+            [
+              -280.3,
+              -3.47
+            ],
+            [
+              -280.08,
+              -1.74
+            ]
+          ]
+        },
+        {
+          "wert": 1,
+          "bezeichnung": "Klappe 3",
+          "punkte": [
+            [
+              20.0,
+              0.0
+            ],
+            [
+              19.92,
+              1.74
+            ],
+            [
+              19.7,
+              3.47
+            ],
+            [
+              19.32,
+              5.18
+            ],
+            [
+              18.79,
+              6.84
+            ],
+            [
+              18.13,
+              8.45
+            ],
+            [
+              17.32,
+              10.0
+            ],
+            [
+              16.38,
+              11.47
+            ],
+            [
+              15.32,
+              12.86
+            ],
+            [
+              14.14,
+              14.14
+            ],
+            [
+              12.86,
+              15.32
+            ],
+            [
+              11.47,
+              16.38
+            ],
+            [
+              10.0,
+              17.32
+            ],
+            [
+              8.45,
+              18.13
+            ],
+            [
+              6.84,
+              18.79
+            ],
+            [
+              5.18,
+              19.32
+            ],
+            [
+              3.47,
+              19.7
+            ],
+            [
+              1.74,
+              19.92
+            ],
+            [
+              0.0,
+              20.0
+            ],
+            [
+              -1.74,
+              19.92
+            ],
+            [
+              -3.47,
+              19.7
+            ],
+            [
+              -5.18,
+              19.32
+            ],
+            [
+              -6.84,
+              18.79
+            ],
+            [
+              -8.45,
+              18.13
+            ],
+            [
+              -10.0,
+              17.32
+            ],
+            [
+              -11.47,
+              16.38
+            ],
+            [
+              -12.86,
+              15.32
+            ],
+            [
+              -14.14,
+              14.14
+            ],
+            [
+              -15.32,
+              12.86
+            ],
+            [
+              -16.38,
+              11.47
+            ],
+            [
+              -17.32,
+              10.0
+            ],
+            [
+              -18.13,
+              8.45
+            ],
+            [
+              -18.79,
+              6.84
+            ],
+            [
+              -19.32,
+              5.18
+            ],
+            [
+              -19.7,
+              3.47
+            ],
+            [
+              -19.92,
+              1.74
+            ],
+            [
+              -20.0,
+              0.0
+            ],
+            [
+              -19.92,
+              -1.74
+            ],
+            [
+              -19.7,
+              -3.47
+            ],
+            [
+              -19.32,
+              -5.18
+            ],
+            [
+              -18.79,
+              -6.84
+            ],
+            [
+              -18.13,
+              -8.45
+            ],
+            [
+              -17.32,
+              -10.0
+            ],
+            [
+              -16.38,
+              -11.47
+            ],
+            [
+              -15.32,
+              -12.86
+            ],
+            [
+              -14.14,
+              -14.14
+            ],
+            [
+              -12.86,
+              -15.32
+            ],
+            [
+              -11.47,
+              -16.38
+            ],
+            [
+              -10.0,
+              -17.32
+            ],
+            [
+              -8.45,
+              -18.13
+            ],
+            [
+              -6.84,
+              -18.79
+            ],
+            [
+              -5.18,
+              -19.32
+            ],
+            [
+              -3.47,
+              -19.7
+            ],
+            [
+              -1.74,
+              -19.92
+            ],
+            [
+              0.0,
+              -20.0
+            ],
+            [
+              1.74,
+              -19.92
+            ],
+            [
+              3.47,
+              -19.7
+            ],
+            [
+              5.18,
+              -19.32
+            ],
+            [
+              6.84,
+              -18.79
+            ],
+            [
+              8.45,
+              -18.13
+            ],
+            [
+              10.0,
+              -17.32
+            ],
+            [
+              11.47,
+              -16.38
+            ],
+            [
+              12.86,
+              -15.32
+            ],
+            [
+              14.14,
+              -14.14
+            ],
+            [
+              15.32,
+              -12.86
+            ],
+            [
+              16.38,
+              -11.47
+            ],
+            [
+              17.32,
+              -10.0
+            ],
+            [
+              18.13,
+              -8.45
+            ],
+            [
+              18.79,
+              -6.84
+            ],
+            [
+              19.32,
+              -5.18
+            ],
+            [
+              19.7,
+              -3.47
+            ],
+            [
+              19.92,
+              -1.74
+            ]
+          ]
+        },
+        {
+          "wert": 1,
+          "bezeichnung": "Klappe 4",
+          "punkte": [
+            [
+              320.0,
+              0.0
+            ],
+            [
+              319.92,
+              1.74
+            ],
+            [
+              319.7,
+              3.47
+            ],
+            [
+              319.32,
+              5.18
+            ],
+            [
+              318.79,
+              6.84
+            ],
+            [
+              318.13,
+              8.45
+            ],
+            [
+              317.32,
+              10.0
+            ],
+            [
+              316.38,
+              11.47
+            ],
+            [
+              315.32,
+              12.86
+            ],
+            [
+              314.14,
+              14.14
+            ],
+            [
+              312.86,
+              15.32
+            ],
+            [
+              311.47,
+              16.38
+            ],
+            [
+              310.0,
+              17.32
+            ],
+            [
+              308.45,
+              18.13
+            ],
+            [
+              306.84,
+              18.79
+            ],
+            [
+              305.18,
+              19.32
+            ],
+            [
+              303.47,
+              19.7
+            ],
+            [
+              301.74,
+              19.92
+            ],
+            [
+              300.0,
+              20.0
+            ],
+            [
+              298.26,
+              19.92
+            ],
+            [
+              296.53,
+              19.7
+            ],
+            [
+              294.82,
+              19.32
+            ],
+            [
+              293.16,
+              18.79
+            ],
+            [
+              291.55,
+              18.13
+            ],
+            [
+              290.0,
+              17.32
+            ],
+            [
+              288.53,
+              16.38
+            ],
+            [
+              287.14,
+              15.32
+            ],
+            [
+              285.86,
+              14.14
+            ],
+            [
+              284.68,
+              12.86
+            ],
+            [
+              283.62,
+              11.47
+            ],
+            [
+              282.68,
+              10.0
+            ],
+            [
+              281.87,
+              8.45
+            ],
+            [
+              281.21,
+              6.84
+            ],
+            [
+              280.68,
+              5.18
+            ],
+            [
+              280.3,
+              3.47
+            ],
+            [
+              280.08,
+              1.74
+            ],
+            [
+              280.0,
+              0.0
+            ],
+            [
+              280.08,
+              -1.74
+            ],
+            [
+              280.3,
+              -3.47
+            ],
+            [
+              280.68,
+              -5.18
+            ],
+            [
+              281.21,
+              -6.84
+            ],
+            [
+              281.87,
+              -8.45
+            ],
+            [
+              282.68,
+              -10.0
+            ],
+            [
+              283.62,
+              -11.47
+            ],
+            [
+              284.68,
+              -12.86
+            ],
+            [
+              285.86,
+              -14.14
+            ],
+            [
+              287.14,
+              -15.32
+            ],
+            [
+              288.53,
+              -16.38
+            ],
+            [
+              290.0,
+              -17.32
+            ],
+            [
+              291.55,
+              -18.13
+            ],
+            [
+              293.16,
+              -18.79
+            ],
+            [
+              294.82,
+              -19.32
+            ],
+            [
+              296.53,
+              -19.7
+            ],
+            [
+              298.26,
+              -19.92
+            ],
+            [
+              300.0,
+              -20.0
+            ],
+            [
+              301.74,
+              -19.92
+            ],
+            [
+              303.47,
+              -19.7
+            ],
+            [
+              305.18,
+              -19.32
+            ],
+            [
+              306.84,
+              -18.79
+            ],
+            [
+              308.45,
+              -18.13
+            ],
+            [
+              310.0,
+              -17.32
+            ],
+            [
+              311.47,
+              -16.38
+            ],
+            [
+              312.86,
+              -15.32
+            ],
+            [
+              314.14,
+              -14.14
+            ],
+            [
+              315.32,
+              -12.86
+            ],
+            [
+              316.38,
+              -11.47
+            ],
+            [
+              317.32,
+              -10.0
+            ],
+            [
+              318.13,
+              -8.45
+            ],
+            [
+              318.79,
+              -6.84
+            ],
+            [
+              319.32,
+              -5.18
+            ],
+            [
+              319.7,
+              -3.47
+            ],
+            [
+              319.92,
+              -1.74
+            ]
+          ]
+        },
+        {
+          "wert": 1,
+          "bezeichnung": "Klappe 5",
+          "punkte": [
+            [
+              620.0,
+              0.0
+            ],
+            [
+              619.92,
+              1.74
+            ],
+            [
+              619.7,
+              3.47
+            ],
+            [
+              619.32,
+              5.18
+            ],
+            [
+              618.79,
+              6.84
+            ],
+            [
+              618.13,
+              8.45
+            ],
+            [
+              617.32,
+              10.0
+            ],
+            [
+              616.38,
+              11.47
+            ],
+            [
+              615.32,
+              12.86
+            ],
+            [
+              614.14,
+              14.14
+            ],
+            [
+              612.86,
+              15.32
+            ],
+            [
+              611.47,
+              16.38
+            ],
+            [
+              610.0,
+              17.32
+            ],
+            [
+              608.45,
+              18.13
+            ],
+            [
+              606.84,
+              18.79
+            ],
+            [
+              605.18,
+              19.32
+            ],
+            [
+              603.47,
+              19.7
+            ],
+            [
+              601.74,
+              19.92
+            ],
+            [
+              600.0,
+              20.0
+            ],
+            [
+              598.26,
+              19.92
+            ],
+            [
+              596.53,
+              19.7
+            ],
+            [
+              594.82,
+              19.32
+            ],
+            [
+              593.16,
+              18.79
+            ],
+            [
+              591.55,
+              18.13
+            ],
+            [
+              590.0,
+              17.32
+            ],
+            [
+              588.53,
+              16.38
+            ],
+            [
+              587.14,
+              15.32
+            ],
+            [
+              585.86,
+              14.14
+            ],
+            [
+              584.68,
+              12.86
+            ],
+            [
+              583.62,
+              11.47
+            ],
+            [
+              582.68,
+              10.0
+            ],
+            [
+              581.87,
+              8.45
+            ],
+            [
+              581.21,
+              6.84
+            ],
+            [
+              580.68,
+              5.18
+            ],
+            [
+              580.3,
+              3.47
+            ],
+            [
+              580.08,
+              1.74
+            ],
+            [
+              580.0,
+              0.0
+            ],
+            [
+              580.08,
+              -1.74
+            ],
+            [
+              580.3,
+              -3.47
+            ],
+            [
+              580.68,
+              -5.18
+            ],
+            [
+              581.21,
+              -6.84
+            ],
+            [
+              581.87,
+              -8.45
+            ],
+            [
+              582.68,
+              -10.0
+            ],
+            [
+              583.62,
+              -11.47
+            ],
+            [
+              584.68,
+              -12.86
+            ],
+            [
+              585.86,
+              -14.14
+            ],
+            [
+              587.14,
+              -15.32
+            ],
+            [
+              588.53,
+              -16.38
+            ],
+            [
+              590.0,
+              -17.32
+            ],
+            [
+              591.55,
+              -18.13
+            ],
+            [
+              593.16,
+              -18.79
+            ],
+            [
+              594.82,
+              -19.32
+            ],
+            [
+              596.53,
+              -19.7
+            ],
+            [
+              598.26,
+              -19.92
+            ],
+            [
+              600.0,
+              -20.0
+            ],
+            [
+              601.74,
+              -19.92
+            ],
+            [
+              603.47,
+              -19.7
+            ],
+            [
+              605.18,
+              -19.32
+            ],
+            [
+              606.84,
+              -18.79
+            ],
+            [
+              608.45,
+              -18.13
+            ],
+            [
+              610.0,
+              -17.32
+            ],
+            [
+              611.47,
+              -16.38
+            ],
+            [
+              612.86,
+              -15.32
+            ],
+            [
+              614.14,
+              -14.14
+            ],
+            [
+              615.32,
+              -12.86
+            ],
+            [
+              616.38,
+              -11.47
+            ],
+            [
+              617.32,
+              -10.0
+            ],
+            [
+              618.13,
+              -8.45
+            ],
+            [
+              618.79,
+              -6.84
+            ],
+            [
+              619.32,
+              -5.18
+            ],
+            [
+              619.7,
+              -3.47
+            ],
+            [
+              619.92,
+              -1.74
+            ]
+          ]
+        }
+      ],
+      "inhalt_sha256": "d0e4d299d7218e365593ebb21d288f3318b95ae031fa93bc65e1b021863530b9",
+      "revision": 1
+    }
+  ]
+}
