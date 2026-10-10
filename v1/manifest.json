@@ -1,7 +1,7 @@
 {
   "format": "ringfuchs-katalog-manifest",
-  "katalog_revision": 5,
-  "erzeugt_am": "2026-10-10T21:50:00Z",
+  "katalog_revision": 6,
+  "erzeugt_am": "2026-10-10T22:58:51Z",
   "mindest_app_schema": 2,
   "sync_pausiert": false,
   "pakete": [
@@ -25,6 +25,13 @@
       "url": "pakete/bds-r1.ringfuchs",
       "sha256": "0156f18b04bc67644e0a37143722b948293dc481d1cb3ac9594b155cac0ec093",
       "bytes": 14047
+    },
+    {
+      "paket_id": "bhds",
+      "revision": 1,
+      "url": "pakete/bhds-r1.ringfuchs",
+      "sha256": "0410b6bfd97bdaabdd7700fe5a8880d9e1cb4cb80ee07eefd91fe1b95df84413",
+      "bytes": 18609
     },
     {
       "paket_id": "dsb",

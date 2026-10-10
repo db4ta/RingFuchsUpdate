@@ -1,0 +1,812 @@
+{
+  "format": "ringfuchs-disziplinen",
+  "version": "1.0",
+  "lizenz": "Copyright © 2026 RingFuchs. Alle Rechte vorbehalten. Proprietäre Nutzung für autorisierte Importe.",
+  "schema_version": 1,
+  "paket_id": "bhds",
+  "revision": 1,
+  "erzeugt_am": "2026-10-10T22:58:51Z",
+  "disziplinen": [
+    {
+      "id": "eigen_bhds_10_1",
+      "kennziffer": "10.1",
+      "name": "Druckluftgewehr – 10 m",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr1",
+          "schuesse": 30,
+          "schuesse_pro_scheibe": 1,
+          "zeit_s": 3000,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.5,
+          4.5
+        ]
+      ],
+      "distanz_m": 10,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 13
+      }
+    },
+    {
+      "id": "eigen_bhds_10_2",
+      "kennziffer": "10.2",
+      "name": "Zimmerstutzen – 15 m",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr2",
+          "schuesse": 30,
+          "schuesse_pro_scheibe": 1,
+          "zeit_s": 3000,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          0.1,
+          4.65
+        ]
+      ],
+      "distanz_m": 15,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 15
+      }
+    },
+    {
+      "id": "eigen_bhds_10_3",
+      "kennziffer": "10.3",
+      "name": "Kleinkalibergewehr – 50 m",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 30,
+          "zeit_s": 3000,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.6,
+          5.6
+        ]
+      ],
+      "distanz_m": 50,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 15
+      }
+    },
+    {
+      "id": "eigen_bhds_10_4",
+      "kennziffer": "10.4",
+      "name": "Kleinkaliber – Olympisch Match – 50 m",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr3",
+          "schuesse": 60,
+          "anschlag": "liegend",
+          "zeit_s": 4500,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.6,
+          5.6
+        ]
+      ],
+      "distanz_m": 50,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 16
+      }
+    },
+    {
+      "id": "eigen_bhds_10_5",
+      "kennziffer": "10.5",
+      "name": "Ordonanzgewehr",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "liegend",
+          "name": "Liegend",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 10,
+          "anschlag": "liegend",
+          "zeit_s": 1200,
+          "probeschuesse": 99
+        },
+        {
+          "id": "stehend",
+          "name": "Stehend Freihand",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 10,
+          "anschlag": "stehend",
+          "zeit_s": 1200,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          6.0,
+          8.0
+        ]
+      ],
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 17
+      }
+    },
+    {
+      "id": "eigen_bhds_10_6",
+      "kennziffer": "10.6",
+      "name": "Scheibengewehr Großkaliber 50m oder 100m",
+      "verband": "BHDS",
+      "waffenart": "lang",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "anschlag": "stehend",
+          "zeit_s": 3000,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          8.15,
+          8.15
+        ]
+      ],
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 19
+      }
+    },
+    {
+      "id": "eigen_bhds_11_1",
+      "kennziffer": "11.1",
+      "name": "Druckluftpistole – 10 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr7",
+          "schuesse": 30,
+          "schuesse_pro_scheibe": 2,
+          "anschlag": "stehend",
+          "zeit_s": 3000,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          4.5,
+          4.5
+        ]
+      ],
+      "distanz_m": 10,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 19
+      }
+    },
+    {
+      "id": "eigen_bhds_11_2",
+      "kennziffer": "11.2",
+      "name": "Freie Pistole – 50 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "wertungsrunden",
+          "name": "Wertungsschießen",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 30,
+          "schuesse_pro_scheibe": 10,
+          "anschlag": "stehend",
+          "zeit_s": 4500,
+          "probeschuesse": 99
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.6,
+          5.6
+        ]
+      ],
+      "distanz_m": 50,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 20
+      }
+    },
+    {
+      "id": "eigen_bhds_11_3",
+      "kennziffer": "11.3",
+      "name": "Sportpistole – Kleinkaliber – 25 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "probeschuesse": 5
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "probeschuesse": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.6,
+          5.6
+        ]
+      ],
+      "distanz_m": 25,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 20
+      }
+    },
+    {
+      "id": "eigen_bhds_11_4",
+      "kennziffer": "11.4",
+      "name": "Sportpistole Zentralfeuer – 25 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "praezision",
+          "name": "Präzision",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "probeschuesse": 5
+        },
+        {
+          "id": "duell",
+          "name": "Duell",
+          "scheiben_id": "dsb_scheibe_nr10",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "probeschuesse": 5
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.62,
+          9.65
+        ]
+      ],
+      "distanz_m": 25,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 21
+      }
+    },
+    {
+      "id": "eigen_bhds_11_5",
+      "kennziffer": "11.5",
+      "name": "Standardpistole Kleinkaliber – 25 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "serie_150s",
+          "name": "2 Serien à 5 Schuss in 150 Sekunden",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 10,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "zeit_s": 150,
+          "probeschuesse": 5
+        },
+        {
+          "id": "serie_20s",
+          "name": "2 Serien à 5 Schuss in 20 Sekunden",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 10,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "zeit_s": 20
+        },
+        {
+          "id": "serie_10s",
+          "name": "2 Serien à 5 Schuss in 10 Sekunden",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 10,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "zeit_s": 10
+        }
+      ],
+      "kaliber_mm": [
+        [
+          5.6,
+          5.6
+        ]
+      ],
+      "distanz_m": 25,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 21
+      }
+    },
+    {
+      "id": "eigen_bhds_11_6",
+      "kennziffer": "11.6",
+      "name": "Standardpistole Großkaliber – 25 m",
+      "verband": "BHDS",
+      "waffenart": "kurz",
+      "teile": [
+        {
+          "id": "serie_150s",
+          "name": "3 Serien à 5 Schuss in 150 Sekunden",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "zeit_s": 150,
+          "probeschuesse": 5
+        },
+        {
+          "id": "serie_20s",
+          "name": "3 Serien à 5 Schuss in 20 Sekunden",
+          "scheiben_id": "dsb_scheibe_nr4",
+          "schuesse": 15,
+          "schuesse_pro_scheibe": 5,
+          "anschlag": "stehend",
+          "zeit_s": 20
+        }
+      ],
+      "kaliber_mm": [
+        [
+          7.62,
+          11.43
+        ]
+      ],
+      "distanz_m": 25,
+      "beleg": {
+        "dokument": "Sportordnung 2024 BHDS.pdf",
+        "seite": 22
+      }
+    }
+  ],
+  "scheiben": [
+    {
+      "scheiben_id": "dsb_scheibe_nr1",
+      "name": "DSB Scheibe Nr. 1 (10m Luftgewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 100.0,
+      "gesamt_hoehe_mm": 100.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 0.5,
+          "innenzehn": true,
+          "innenzehn_weggeschossen": true
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 5.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 10.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 15.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 20.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 25.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 30.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 35.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 45.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "5708dffcdb93fba3b822a45c2706476dc4ff850fa3f1e89bcebbec0989195d9e",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr10",
+      "name": "DSB Scheibe Nr. 10 (25m Schnellfeuer / Duell)",
+      "verbaende": [
+        "DSB",
+        "BDMP"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 5,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 180.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 260.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 340.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 420.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "2d4f36fcb6b38af74408042021fccab254250b6928f1d488e9e21cbeba075346",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr2",
+      "name": "DSB Scheibe Nr. 2 (15m Zimmerstutzen)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 130.0,
+      "gesamt_hoehe_mm": 130.0,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 4.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 13.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 22.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 31.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 40.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 49.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 58.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 67.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 76.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 85.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "df67cd06c5a8df6596ab476793eb6a2b715692caa47820db7e57b3378227d0b0",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr3",
+      "name": "DSB Scheibe Nr. 3 (50m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 340.0,
+      "gesamt_hoehe_mm": 340.0,
+      "spiegel_schwarz_ab_ring": 4,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 10.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 26.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 42.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 58.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 74.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 90.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 106.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 122.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 138.4,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 154.4,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "ebd9504169f6fb9f6982e3fa44c6d5769dc0ac8248449c74ae585448c6dad7aa",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr4",
+      "name": "DSB Scheibe Nr. 4 (25m Pistole / 100m Gewehr)",
+      "verbaende": [
+        "DSB",
+        "BDS",
+        "BDMP",
+        "DSU"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 550.0,
+      "gesamt_hoehe_mm": 550.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 25.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 50.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 100.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 150.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 200.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 250.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 300.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 350.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 400.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 450.0,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 500.0,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "a0663fa6686512e3df9cb6b096183537df31b0cce968ae6dd4ff6f9cb130bff5",
+      "revision": 1
+    },
+    {
+      "scheiben_id": "dsb_scheibe_nr7",
+      "name": "DSB Scheibe Nr. 7 (10m Luftpistole)",
+      "verbaende": [
+        "DSB"
+      ],
+      "typ": "kreis",
+      "gesamt_breite_mm": 170.0,
+      "gesamt_hoehe_mm": 170.0,
+      "spiegel_schwarz_ab_ring": 7,
+      "ringe": [
+        {
+          "wert": 10,
+          "durchmesser_mm": 5.0,
+          "innenzehn": true
+        },
+        {
+          "wert": 10,
+          "durchmesser_mm": 11.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 9,
+          "durchmesser_mm": 27.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 8,
+          "durchmesser_mm": 43.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 7,
+          "durchmesser_mm": 59.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 6,
+          "durchmesser_mm": 75.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 5,
+          "durchmesser_mm": 91.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 4,
+          "durchmesser_mm": 107.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 3,
+          "durchmesser_mm": 123.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 2,
+          "durchmesser_mm": 139.5,
+          "innenzehn": false
+        },
+        {
+          "wert": 1,
+          "durchmesser_mm": 155.5,
+          "innenzehn": false
+        }
+      ],
+      "inhalt_sha256": "d9908d18373f2177a745af508a116168a35adadc12528d15821135c76f599376",
+      "revision": 1
+    }
+  ]
+}
