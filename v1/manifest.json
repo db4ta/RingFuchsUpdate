@@ -1,7 +1,7 @@
 {
   "format": "ringfuchs-katalog-manifest",
-  "katalog_revision": 6,
-  "erzeugt_am": "2026-10-10T22:58:51Z",
+  "katalog_revision": 7,
+  "erzeugt_am": "2026-10-11T16:57:51Z",
   "mindest_app_schema": 2,
   "sync_pausiert": false,
   "pakete": [
@@ -35,10 +35,10 @@
     },
     {
       "paket_id": "dsb",
-      "revision": 3,
-      "url": "pakete/dsb-r3.ringfuchs",
-      "sha256": "f27095de3b143f6d46d6ac0ec994f56053a6d9b552e2ffc845ce2ae3a573d768",
-      "bytes": 31285
+      "revision": 4,
+      "url": "pakete/dsb-r4.ringfuchs",
+      "sha256": "1a2c9e0dfbd315b96af4f812c084a535a08d817d3879a503f470d29550a81e63",
+      "bytes": 180562
     },
     {
       "paket_id": "dsu",
