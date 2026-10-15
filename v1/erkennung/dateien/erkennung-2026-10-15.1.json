@@ -1,0 +1,19 @@
+{
+ "eintraege": [
+  {
+   "kaliber_bis_mm": 5.75,
+   "kaliber_von_mm": 5.45,
+   "radial": {
+    "dunklesLochKern": 0.432,
+    "dunklesLochVerhaeltnis": 0.5265,
+    "maximaleRadiusStreuung": 0.198
+   },
+   "scheiben": [
+    "dsb_scheibe_nr4"
+   ]
+  }
+ ],
+ "format": "ringfuchs-erkennung",
+ "stand": "2026-10-15.1",
+ "version": 1
+}

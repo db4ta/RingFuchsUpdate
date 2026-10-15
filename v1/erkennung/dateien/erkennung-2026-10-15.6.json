@@ -1,0 +1,38 @@
+{
+ "eintraege": [
+  {
+   "kaliber_bis_mm": 5.75,
+   "kaliber_von_mm": 5.45,
+   "kontrast": {
+    "doppellochFlaeche": 2.3958
+   },
+   "radial": {
+    "dunkleUmgebung": 99.0,
+    "dunklesLochKern": 0.432,
+    "dunklesLochVerhaeltnis": 0.5792,
+    "maximaleRadiusStreuung": 0.1443,
+    "mindestAbdeckung": 0.891,
+    "mindestKante": 23.958,
+    "mindestSignatur": 19.8,
+    "radiusMin": 0.5989
+   },
+   "scheiben": [
+    "dsb_scheibe_nr4"
+   ]
+  },
+  {
+   "kaliber_bis_mm": 4.65,
+   "kaliber_von_mm": 4.35,
+   "radial": {
+    "maximaleRadiusStreuung": 0.198,
+    "radiusMax": 1.54
+   },
+   "scheiben": [
+    "dsb_scheibe_nr1"
+   ]
+  }
+ ],
+ "format": "ringfuchs-erkennung",
+ "stand": "2026-10-15.6",
+ "version": 1
+}

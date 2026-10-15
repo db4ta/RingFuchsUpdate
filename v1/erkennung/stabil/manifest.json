@@ -1,0 +1,28 @@
+{
+  "format": "ringfuchs-erkennung-manifest",
+  "kanal": "stabil",
+  "stand": "2026-10-15.8",
+  "erzeugt_am": "2026-10-15T14:55:01Z",
+  "mindest_app_schema": 1,
+  "dateien": [
+    {
+      "art": "profil",
+      "url": "erkennung/dateien/erkennung-2026-10-15.8.json",
+      "sha256": "cac6ae225c7ff905a11f59f8b6a857e456d502b254c5688e7cadc26651e31bdd",
+      "bytes": 739
+    },
+    {
+      "art": "modell",
+      "url": "erkennung/dateien/lochpruefer-2026-10-15.8.mlmodel",
+      "sha256": "ef7f7dc4979e69b0d23067fd834c548ac5ab8b3656b3ec06a5959d3ef87355ac",
+      "bytes": 6750
+    }
+  ],
+  "lern_adresse": "junkmailing@arcor.de",
+  "guete": {
+    "pruefsatz_fotos": 14,
+    "pruefsatz_vorher": 113,
+    "pruefsatz_nachher": 111,
+    "validierung": 0.9072
+  }
+}
