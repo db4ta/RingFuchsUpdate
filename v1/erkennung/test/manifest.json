@@ -1,28 +1,28 @@
 {
   "format": "ringfuchs-erkennung-manifest",
   "kanal": "test",
-  "stand": "2026-10-15.8",
-  "erzeugt_am": "2026-10-15T14:51:40Z",
+  "stand": "2026-10-15.11",
+  "erzeugt_am": "2026-10-15T18:34:29Z",
   "mindest_app_schema": 1,
   "dateien": [
     {
       "art": "profil",
-      "url": "erkennung/dateien/erkennung-2026-10-15.8.json",
-      "sha256": "cac6ae225c7ff905a11f59f8b6a857e456d502b254c5688e7cadc26651e31bdd",
-      "bytes": 739
+      "url": "erkennung/dateien/erkennung-2026-10-15.11.json",
+      "sha256": "4ae2fbda3b0a4cfbd85c30c6e63eebb6a564d1d880c04aca092c57ca407ad7be",
+      "bytes": 1081
     },
     {
       "art": "modell",
-      "url": "erkennung/dateien/lochpruefer-2026-10-15.8.mlmodel",
-      "sha256": "ef7f7dc4979e69b0d23067fd834c548ac5ab8b3656b3ec06a5959d3ef87355ac",
-      "bytes": 6750
+      "url": "erkennung/dateien/lochpruefer-2026-10-15.11.mlmodel",
+      "sha256": "75045c4444ae9203022965233f6bc905d8d4b6bc9099e3a2c626303a9a497b83",
+      "bytes": 6751
     }
   ],
   "lern_adresse": "junkmailing@arcor.de",
   "guete": {
     "pruefsatz_fotos": 14,
-    "pruefsatz_vorher": 113,
-    "pruefsatz_nachher": 111,
-    "validierung": 0.9072
+    "pruefsatz_vorher": 108,
+    "pruefsatz_nachher": 107,
+    "validierung": 0.9634
   }
 }
